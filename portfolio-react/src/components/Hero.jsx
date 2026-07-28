@@ -58,7 +58,7 @@ export default function Hero() {
         <p className="hero-intro">I build clean, efficient web applications and love solving complex problems. Currently pursuing B.E CSE while sharpening my skills in competitive programming and full stack development.</p>
         <div className="hero-btns">
           <a href="#projects" className="btn primary">View Work</a>
-          <a href="https://drive.google.com/file/d/1irBggvBkM0IVtDJt9yJTkCKJVlklcaLB/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn outline">View Resume <i className="fas fa-eye" /></a>
+          <a href="https://drive.google.com/file/d/1PtHi9KsDsqoG1PrTTBiWobFD5BGi42SH/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn outline">View Resume <i className="fas fa-eye" /></a>
         </div>
       </div>
     </section>
